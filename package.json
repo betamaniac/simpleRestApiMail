@@ -1,0 +1,24 @@
+{
+  "name": "emailserver",
+  "version": "1.0.0",
+  "description": "simple rest api email server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/betamaniac/simpleRestApiMail.git"
+  },
+  "keywords": [
+    "mail",
+    "rest",
+    "server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betamaniac/simpleRestApiMail/issues"
+  },
+  "homepage": "https://github.com/betamaniac/simpleRestApiMail#readme"
+}
